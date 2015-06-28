@@ -5,3 +5,5 @@ Today is June 19th, 2015. It is 10:34pm.
 This line was added from my iPad.  **Pretty cute!**
 
 Another line from iPad.  Is any push/pull needed?
+
+This line entered from laptop (in Branch1).
