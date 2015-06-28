@@ -5,3 +5,4 @@ I *think* I got this working by issuing:
 ```
 $ git config --global credential.helper wincred
 ```
+Nope.  I am still getting prompted for email(id) and password on every push.  Annoying.
