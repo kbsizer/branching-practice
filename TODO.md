@@ -5,3 +5,7 @@ I *think* I got this working by issuing:
 ```
 $ git config --global credential.helper wincred
 ```
+
+# Test Merging 
+This line added from main branch. Next task will be to merge 'branch1' into 'main'
+
