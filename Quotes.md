@@ -26,3 +26,8 @@ Horace, Arte poética
 
 #### When we fully understand the brevity of life, its fleeting joys and unavoidable pains; when we accept the facts that all men and women are approaching an inevitable doom: the consciousness of it should make us more kindly and considerate of each other. This feeling should make men and women use their best efforts to help their fellow travelers on the road, to make the path brighter and easier as we journey on. It should bring a closer kinship, a better understanding, and a deeper sympathy for the wayfarers who must live a common life and die a common death.
 Clarence Darrow, The Essential Words and Writings of Clarence Darrow
+
+## Destiny
+
+#### It is better to live your own destiny imperfectly than to live an imitation of somebody else's life with perfection.
+The Bhagavad Gita

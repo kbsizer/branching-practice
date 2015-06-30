@@ -8,3 +8,6 @@ Another line from iPad.  Is any push/pull needed?
 
 This line is being added from "user2" working in main branch.
 
+This line entered from laptop (in Branch1).
+
+**This is the emergency hotfix change**
