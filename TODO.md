@@ -15,5 +15,7 @@ http://gitcredentialstore.codeplex.com/releases/view/106064
 I downloaded it, ran it and then did a git push.  The push of this change will test whether
 the credentials were cached or not.
 
+### Yesss! It worked!
+
 # Test Merging
 This line added from main branch. Next task will be to merge 'branch1' into 'main'
