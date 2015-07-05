@@ -31,3 +31,12 @@ Clarence Darrow, The Essential Words and Writings of Clarence Darrow
 
 #### It is better to live your own destiny imperfectly than to live an imitation of somebody else's life with perfection.
 The Bhagavad Gita
+
+#### Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win
+Sun Tzu, The Art of War
+
+#### There is no instance of a nation benefitting from prolonged warfare.
+Sun Tzu, The Art of War
+
+#### When you surround an army, leave an outlet free. Do not press a desperate foe too hard.
+Sun Tzu, The Art of War
